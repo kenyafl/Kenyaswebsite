@@ -1,0 +1,92 @@
+body {
+  background-color: lightblue;
+  margin: 0;
+  font-family: sans-serif;
+}
+
+h1 {
+  font-family: 'Sacramento', cursive;
+  font-size: 60px;
+
+}
+
+h2 {
+  color: #2C3333;
+  text-align: center;
+
+}
+
+.center {
+  text-align: center;
+  padding: 50px;
+  margin: 50px;
+  color: #2C3333;
+}
+
+.mountain {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  padding: 10px;
+}
+
+.cloud {
+  position: absolute;
+  top: 30px;
+  right: 300px;
+}
+
+.cloud2 {
+  position: absolute;
+  top: 120px;
+  left: 300px;
+}
+
+.profile {
+  width: 300px;
+  height: auto;
+  padding: 20px;
+  position: static;
+  margin-top: 250px;
+  margin-left: 380px;
+}
+
+p {
+  font-style: sans serif;
+  color: #2C3333;
+  text-align: center;
+}
+
+.webdevelopment {
+  height: 200px;
+  width: 200px;
+  position: static;
+  margin-top: 60px;
+  margin-left: 850px;
+}
+
+.moreaboutme {
+  height: 200px;
+  width: 200px;
+  margin-top: 60px;
+  margin-left: 850px;
+  text-align: center;
+
+}
+
+.graduation {
+  height: 200px;
+  width: 200px;
+  position: static;
+  margin-top: 40px;
+  margin-left: 425px;
+}
+
+.contactme {
+  margin-top: 400px;
+  margin-bottom: 100px;
+  margin-left: 50px;
+  position: relative;
+
+}
